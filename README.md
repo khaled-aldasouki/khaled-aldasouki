@@ -1,16 +1,30 @@
-### Hi there 👋
+## About Me
 
-<!--
-**khaled-aldasouki/khaled-aldasouki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍🎓CIT Student at RIT Dubai 
+💻Programmer
+🐍Python
+🎮Game Development
+📲Open for collaborations and commisions 
 
-Here are some ideas to get you started:
+## Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Games
+<ul>
+  <li></li><a href="https://github.com/khaled-aldasouki/ProtectMotherNature">🌍Protect Mother Nature</a></li>
+  <li></li><a href="https://github.com/khaled-aldasouki/MUD">💀MUD: Multi User Dungeon</a></li>
+</ul>
+
+### Tools
+<ul>
+  <li></li><a href="https://github.com/khaled-aldasouki/whatsapp_spammer">📱Whatsapp Spammer</a></li>
+  <li></li><a href="https://github.com/khaled-aldasouki/Linux-Shortcut-Creator">🔗Linux Shortcut Creator</a></li>
+  <li></li><a href="https://github.com/khaled-aldasouki/Attacker_Report">🐱‍💻Attacker Report</a></li>
+  <li></li><a href="https://github.com/khaled-aldasouki/Linux-Connection-Tester">📶Linux Connection Tester</a></li>
+  <li></li><a href="https://github.com/khaled-aldasouki/linux-user-adder">👥Linux User Adder</a></li>
+</ul>
+
+### Contact Me
+
+<a href="https://www.linkedin.com/in/khaled-aldasouki/">💼Linkedin</a>
+<a href="mailto:khaldasoukibus@gmail.com/">✉Email</a>
+

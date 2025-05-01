@@ -4,7 +4,6 @@
 💻Programmer<br>
 🐍Python<br>
 🎮Game Development<br>
-📲Open for collaborations and commisions <br>
 
 ### Github Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=khaled-aldasouki&show_icons=true)](https://github.com/khaled-aldasouki/github-readme-stats)

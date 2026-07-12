@@ -1,18 +1,14 @@
 ## About Me
 
-👨‍🎓CIT Student at RIT Dubai <br>
-💻Programmer<br>
+👨‍🎓CIT Graduate from RIT Dubai <br>
 🐍Python<br>
 🎮Game Development<br>
 
-### Github Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=khaled-aldasouki&show_icons=true)](https://github.com/khaled-aldasouki/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khaled-aldasouki&langs_count=10&exclude_repo=ProtectMotherNature&layout=donut)](https://github.com/khaled-aldasouki/github-readme-stats)
 ## Projects
 
 ### Websites
 <ul>
-  <li><a href="https://nostalggio.com">🎮Nostalggio</a></li>
+  <li><a href="https://nostalggio.com">🎮Nostalggio</a> (Discontinued)</li>
 </ul>
 
 ### Games
